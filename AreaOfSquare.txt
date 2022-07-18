@@ -1,0 +1,18 @@
+public class AreaofSquare {
+
+          byte side = 5 ;
+
+          public void area () {
+     	system.out.println("Area of a Square = "+(side*side)+ " sq. mts") ;
+
+            }
+          
+            public static void main (String atgd []) {
+
+	Areaofsquare hudsonPlot = new Areaof Square () ;
+	hudsonPlot.area(5) ;
+	
+	Areaofsquare jareersPlot = new Areaof Square () ;
+
+
+}
